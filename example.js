@@ -30,45 +30,45 @@ let updateTimer;
 
 let music_list = [
 {
-	img : 'imgs/lovelyrunner.jpg',
+	img : 'lovelyrunner.jpg',
 	name : 'RUN RUN',
 	artist : 'Eclipse',
-	music : 'songs/runrun.mp3'
+	music : 'runrun.mp3'
 },
 
 {
-	img : 'imgs/10cm.jpg',
+	img : '10cm.jpg',
 	name : 'Sudden Snow',
 	artist : '10 CM',
-	music : 'songs/sss.mp3'
+	music : 'sss.mp3'
 },
 
 {
-	img : 'imgs/eclipse.jpg',
+	img : 'eclipse.jpg',
 	name : 'Sudden Shower',
 	artist : 'Eclipse',
-	music : 'songs/ss.mp3'
+	music : 'ss.mp3'
 },
 
 {
-	img : 'imgs/eclipse.jpg',
+	img : 'eclipse.jpg',
 	name : 'You & I',
 	artist : 'Eclipse',
-	music : 'songs/yni.mp3'
+	music : 'yni.mp3'
 },
 
 {
-	img : 'imgs/eclipse.jpg',
+	img : 'eclipse.jpg',
 	name : 'Star',
 	artist : 'Eclipse',
-	music : 'songs/star.mp3'
+	music : 'star.mp3'
 },
 
 {
-	img : 'imgs/eclipse.jpg',
+	img : 'eclipse.jpg',
 	name : 'Like A Dream',
 	artist : 'Eclipse',
-	music : 'songs/like a dream.mp3'
+	music : 'like a dream.mp3'
 }
 
 ]
